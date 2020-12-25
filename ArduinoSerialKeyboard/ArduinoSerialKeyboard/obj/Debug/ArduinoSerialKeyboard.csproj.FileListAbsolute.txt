@@ -1,0 +1,10 @@
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\bin\Debug\ArduinoSerialKeyboard.exe.config
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\bin\Debug\ArduinoSerialKeyboard.exe
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\bin\Debug\ArduinoSerialKeyboard.pdb
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.csprojAssemblyReference.cache
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.Form1.resources
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.Properties.Resources.resources
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.csproj.GenerateResource.cache
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.exe
+C:\Users\leoki\source\repos\ArduinoSerialKeyboard\ArduinoSerialKeyboard\obj\Debug\ArduinoSerialKeyboard.pdb

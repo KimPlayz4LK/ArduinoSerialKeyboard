@@ -8,3 +8,5 @@ However, hope you will enjoy my first Arduino-linked program!
 
 To proof that this is not a virus if you are worrying, you can check out the screen shot.
 (https://github.com/KimPlayz4LK/ArduinoSerialKeyboard/blob/master/Screenshot%202020-12-24%20220538.png)
+
+I also have recorded a video for the proof: https://github.com/KimPlayz4LK/ArduinoSerialKeyboard/blob/master/2020-12-24%2022-11-29.mp4
